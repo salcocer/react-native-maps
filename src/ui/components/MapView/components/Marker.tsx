@@ -4,7 +4,7 @@ import { Vehicle } from 'core/Vehicle/domain/Vehicle'
 import { Pressable, Image } from 'react-native'
 import { Callout, Marker } from 'react-native-maps'
 import { styles } from '../MapView.styles'
-import { MOTORBIKE, SELECTED_MOTORBIKE } from 'src/assets'
+import { UBER_CAR, SELECTED_UBER_CAR } from 'src/assets'
 import { forwardRef, MutableRefObject, useImperativeHandle, useState } from 'react'
 import { BottomSheetMethods } from '@gorhom/bottom-sheet/lib/typescript/types'
 
@@ -75,7 +75,7 @@ export const VehicleMarker = forwardRef(({
                         key={index}
                         coordinate={{ latitude: vehicle.position.lat, longitude: vehicle.position.lng }} >
                         <Image
-                            source={selectedVehicle === index || showVehicle === vehicle.id ? SELECTED_MOTORBIKE : MOTORBIKE}
+                            source={selectedVehicle === index || showVehicle === vehicle.id ? SELECTED_UBER_CAR : UBER_CAR}
                             style={{ ...styles.markerIcon, opacity: disabledVehicles.includes(vehicle.id) ? 0.4 : 1 }}
                         />
                         <Callout tooltip />

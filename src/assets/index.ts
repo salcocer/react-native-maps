@@ -1,4 +1,4 @@
-export const MOTORBIKE = require('./spot_motorbike_100.png')
-export const SELECTED_MOTORBIKE = require('./selected_spot_motorbike.png')
-export const LOGO = require('./logo.png')
-export const BIKE = require('./bike.png')
+export const UBER_CAR = require("./spot_uber_car.png");
+export const SELECTED_UBER_CAR = require("./spot_uber_car_selected.png");
+export const UBER_UBER_LOGO = require("./uber.png");
+export const SPORT_CAR = require("./uber_car_taxi.png");
