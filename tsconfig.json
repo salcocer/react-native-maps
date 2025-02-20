@@ -1,0 +1,45 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    /* Specify module resolution strategy: 'node' (Node.js) or 'classic' (TypeScript pre-1.6). */
+    "baseUrl": "./",
+    /* Base directory to resolve non-absolute module names. */
+    "paths": {
+      "core/*": [
+        "src/core/*"
+      ],
+      "ui/*": [
+        "src/ui/*"
+      ],
+      "assets/*": [
+        "./assets/*"
+      ],
+      "_di/*": [
+        "src/_di/*"
+      ]
+    },
+    /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */
+    "rootDir": "./",
+    // List of root folders whose combined content represents the structure of the project at runtime.
+    "rootDirs": [
+      "src"
+    ],
+    "typeRoots": [
+      "node_modules/@types",
+    ],
+    /* Type declaration files to be included in compilation. */
+    "allowSyntheticDefaultImports": true,
+    /* Allow default imports from modules with no default export. This does not affect code emit, just typechecking. */
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "jsx": "react-jsx",
+    "strict": true,
+  },
+  "linterOptions": {
+    "typeCheck": true
+  },
+  "include": [
+    "src/**/*",
+    "setupJest.ts"
+  ],
+}

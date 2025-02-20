@@ -1,0 +1,182 @@
+[
+    {
+        "id": 8215637,
+        "customId": "CARGA0698",
+        "regionId": 1,
+        "type": "motorbike",
+        "model": "automatic-trunk",
+        "plate": "CARGA0698",
+        "batteryLevel": 70,
+        "autonomy": 66,
+        "position": {
+            "lat": 40.463237,
+            "lng": -3.67243,
+            "position": ""
+        },
+        "hasSpecialTrunk": false,
+        "hasPromo": false,
+        "hasHelmetSensor": false
+    },
+    {
+        "id": 5457055,
+        "customId": "CARGA0697",
+        "regionId": 1,
+        "type": "motorbike",
+        "model": "automatic-trunk",
+        "plate": "CARGA0697",
+        "batteryLevel": 90,
+        "autonomy": 79,
+        "position": {
+            "lat": 40.485132,
+            "lng": -3.658655,
+            "position": ""
+        },
+        "hasSpecialTrunk": false,
+        "hasPromo": false,
+        "hasHelmetSensor": false
+    },
+    {
+        "id": 4349193,
+        "customId": "CARGA0696",
+        "regionId": 1,
+        "type": "motorbike",
+        "model": "automatic-trunk",
+        "plate": "CARGA0696",
+        "batteryLevel": 100,
+        "autonomy": 100,
+        "position": {
+            "lat": 40.457525,
+            "lng": -3.67696,
+            "position": ""
+        },
+        "hasSpecialTrunk": false,
+        "hasPromo": false,
+        "hasHelmetSensor": false
+    },
+    {
+        "id": 8919465,
+        "customId": "CARGA0693",
+        "regionId": 1,
+        "type": "motorbike",
+        "model": "automatic-trunk",
+        "plate": "CARGA0693",
+        "batteryLevel": 90,
+        "autonomy": 88,
+        "position": {
+            "lat": 40.457456,
+            "lng": -3.678557,
+            "position": ""
+        },
+        "hasSpecialTrunk": false,
+        "hasPromo": false,
+        "hasHelmetSensor": false
+    },
+    {
+        "id": 6863658,
+        "customId": "CARGA0692",
+        "regionId": 1,
+        "type": "motorbike",
+        "model": "automatic-trunk",
+        "plate": "CARGA0692",
+        "batteryLevel": 80,
+        "autonomy": 80,
+        "position": {
+            "lat": 40.474512,
+            "lng": -3.666576,
+            "position": ""
+        },
+        "hasSpecialTrunk": false,
+        "hasPromo": false,
+        "hasHelmetSensor": false
+    },
+    {
+        "id": 8910620,
+        "customId": "CARGA0691",
+        "regionId": 1,
+        "type": "motorbike",
+        "model": "automatic-trunk",
+        "plate": "CARGA0691",
+        "batteryLevel": 80,
+        "autonomy": 73,
+        "position": {
+            "lat": 40.4632,
+            "lng": -3.673231,
+            "position": ""
+        },
+        "hasSpecialTrunk": false,
+        "hasPromo": false,
+        "hasHelmetSensor": false
+    },
+    {
+        "id": 8043864,
+        "customId": "CARGA0690",
+        "regionId": 1,
+        "type": "motorbike",
+        "model": "automatic-trunk",
+        "plate": "CARGA0690",
+        "batteryLevel": 40,
+        "autonomy": 31,
+        "position": {
+            "lat": 40.468832,
+            "lng": -3.670309,
+            "position": ""
+        },
+        "hasSpecialTrunk": false,
+        "hasPromo": false,
+        "hasHelmetSensor": false
+    },
+    {
+        "id": 9013547,
+        "customId": "CARGA0689",
+        "regionId": 1,
+        "type": "motorbike",
+        "model": "automatic-trunk",
+        "plate": "CARGA0689",
+        "batteryLevel": 20,
+        "autonomy": 16,
+        "position": {
+            "lat": 40.477029,
+            "lng": -3.658013,
+            "position": ""
+        },
+        "hasSpecialTrunk": false,
+        "hasPromo": false,
+        "hasHelmetSensor": false
+    },
+    {
+        "id": 9460163,
+        "customId": "CARGA0688",
+        "regionId": 1,
+        "type": "motorbike",
+        "model": "automatic-trunk",
+        "plate": "CARGA0688",
+        "batteryLevel": 50,
+        "autonomy": 45,
+        "position": {
+            "lat": 40.448743,
+            "lng": -3.67504,
+            "position": ""
+        },
+        "hasSpecialTrunk": false,
+        "hasPromo": false,
+        "hasHelmetSensor": false
+    },
+    {
+        "id": 7302911,
+        "customId": "CARGA0686",
+        "regionId": 1,
+        "type": "motorbike",
+        "model": "automatic-trunk",
+        "plate": "CARGA0686",
+        "batteryLevel": 99,
+        "autonomy": 83,
+        "position": {
+            "lat": 40.465644,
+            "lng": -3.666269,
+            "position": ""
+        },
+        "hasSpecialTrunk": false,
+        "hasPromo": false,
+        "hasHelmetSensor": false
+    }
+]
